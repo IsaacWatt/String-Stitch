@@ -1,4 +1,14 @@
 {
   "name": "@iwatt/string-stitch",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "A clean interface for JS string interpolation",
+  "license": "MIT",
+  "repository": "isaacwatt/String-Stitch",
+  "main": "index.js",
+  "keywords": [
+    "expression",
+    "interpolation",
+    "javascript",
+    "string"
+  ]
 }

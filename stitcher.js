@@ -10,7 +10,7 @@ class Stitcher {
    embed() {
     var keys = Object.keys(this.config);
     var func = Function(...keys, "return `" + this.templateString + "`;");
-    return func(...keys.map(k => obj[k]));
+    return func(...keys.map(k => this.config[k]));
    }
 
 }

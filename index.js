@@ -1,3 +1,2 @@
-module.exports = function stitch(string) {
-  return string; 
-};
+const stitcher = require("./stitcher");
+module.exports = stitcher;

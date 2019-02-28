@@ -4,10 +4,7 @@
   "description": "A clean interface for JS string interpolation",
   "license": "MIT",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+[https://github.com/IsaacWatt/String-Stitch](https://github.com/IsaacWatt/String-Stitch)"
-  },
+  "repository": "isaacwatt/string-stitch",  
   "keywords": [
     "expression",
     "interpolation",

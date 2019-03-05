@@ -1,11 +1,11 @@
-# @iwatt/string-stitch
+# string-stitch
 
 A clean interface for JS string interpolation
 
 ## Install
 
 ```
-$ npm install @iwatt/string-stitch
+$ npm i string-stitch
 ```
 
 ## Usage
